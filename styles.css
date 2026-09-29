@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f5f7fa; }
+main { max-width: 1200px; margin: 32px auto; padding: 24px; background: white; }
+h1 { color: #1f4e78; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ccd3da; padding: 10px; text-align: left; }
+th { background: #1f4e78; color: white; }
+tbody tr:nth-child(even) { background: #f3f6f8; }
+img { display: block; }
+.error { color: #a61b1b; font-weight: bold; }
